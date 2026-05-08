@@ -10,9 +10,6 @@ Link - Streamlit Cloud Link: https://ml-house-price-ai-prediction-577784.streaml
 
 ---
 
-
----
-
 ## 📊 Features
 
 - 🧠 Predict house prices instantly using ML models  
